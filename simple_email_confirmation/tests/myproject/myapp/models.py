@@ -4,4 +4,4 @@ from simple_email_confirmation.models import SimpleEmailConfirmationUserMixin
 
 class User(SimpleEmailConfirmationUserMixin, AbstractUser):
     pass
-Status API Training Shop Blog About
+
